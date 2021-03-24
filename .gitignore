@@ -1,6 +1,7 @@
 data/stock_prices/*.csv
 credentials
 saved_models
+saved_predictions
 
 __pycache__
 
